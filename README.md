@@ -1,81 +1,74 @@
-# manihsaw1852
-
+manihsaw1852
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Manish%20Kumar%20Saw&fontSize=32&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Manish%20Kumar%20Saw&fontSize=32&fontAlignY=35" />
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;FinTech+%26+Healthcare+Systems;FastAPI+%7C+PostgreSQL+%7C+AWS;ISO+20022+Payments;Exploring+AI%2FML;Gaming+%F0%9F%8E%AE+%7C+Anime+%F0%9F%8D%A5)
+https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Modern+Data+Platforms;Databricks+%7C+PySpark+%7C+Azure;ETL+%7C+Data+Pipelines+%7C+Lakehouse;Exploring+AI%2FML+for+Data+Automation
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayakrishna333&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+https://komarev.com/ghpvc/?username=manihsaw1852&label=Profile%20Views&color=0e75b6&style=for-the-badge
 
 </div>
 
 <div align="center">
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
+</div>
 
-Backend Engineer working on **FinTech & healthcare systems**.  
-I build **scalable backend APIs**, **payment platforms**, and **automation tools**.
+Data Engineer specializing in cloud-native data pipelines, ETL/ELT workflows, and Lakehouse architectures.
+I design and build scalable, reliable, and cost‑efficient data systems for analytics, reporting, and AI workloads.
 
-- ⚙️ FastAPI • PostgreSQL • AWS • ISO 20022  
-- 🤖 Exploring AI / ML & intelligent systems  
-- 💳 Payments, messaging & data validation  
-- 🎮 Gaming | 🍥 Anime  
+⚙️ Databricks • PySpark • Azure Data Factory • Delta Lake
 
----
+🗄️ SQL • Python • Data Modeling • ETL/ELT
 
+☁️ Azure • AWS (Exploring)
+
+📊 Data Quality • Governance • Automation
+
+🤖 Exploring AI/ML for intelligent data workflows
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🎓%20Certifications&fontSize=20&fontAlignY=60" />
+</div>
 
 <div align="center">
 
 <a href="https://www.credly.com/badges/7e4ba613-4076-4c0f-81f5-577a14803879/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/PSM%20I-Scrum.org-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Professional Scrum Master I" />
+<img src="https://img.shields.io/badge/PSM%20I-Scrum.org-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </a>
 
 <a href="https://badges.iiba.org/ed736f62-bbc7-4d6f-9e9f-01719a6f8297#acc.x4NBVZ1k" target="_blank">
-  <img src="https://img.shields.io/badge/ECBA-IIBA-003A8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="ECBA Certification" />
+<img src="https://img.shields.io/badge/ECBA-IIBA-003A8F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
-
-### Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Payments & Data
-![ISO20022](https://img.shields.io/badge/ISO_20022-Financial_Messaging-orange?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
-![CSV](https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge)
-
-### AI / ML (Exploring)
-![AI](https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
-
-<img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
-<p><em>Welcome to my GitHub 👋</em></p>
-
----
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
 </div>
 
+🔹 Data Engineering & Processing
+https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
+https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Delta_Lake-0A9EDC?style=for-the-badge
+
+🔹 Databases & Storage
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Azure_Blob_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white
+
+🔹 Cloud & DevOps
+https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+
+🔹 Data Formats
+https://img.shields.io/badge/Parquet-50C878?style=for-the-badge
+https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge
+https://img.shields.io/badge/JSON-000000?style=for-the-badge
+
+🔹 AI / ML (Exploring)
+https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge
