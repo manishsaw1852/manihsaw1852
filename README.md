@@ -5,9 +5,13 @@ manihsaw1852
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/7e4ba613-4076-4c0f-81f5-577a14803879/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/PSM%20I-Scrum.org-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Professional Scrum Master I" />
+</a>
 
-
-https://komarev.com/ghpvc/?username=manihsaw1852&label=Profile%20Views&color=0e75b6&style=for-the-badge
+<a href="https://badges.iiba.org/ed736f62-bbc7-4d6f-9e9f-01719a6f8297#acc.x4NBVZ1k" target="_blank">
+  <img src="https://img.shields.io/badge/ECBA-IIBA-003A8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="ECBA Certification" />
+</a>
 
 </div>
 
