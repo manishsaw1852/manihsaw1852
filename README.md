@@ -5,7 +5,7 @@ manihsaw1852
 
 <div align="center">
 
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Modern+Data+Platforms;Databricks+%7C+PySpark+%7C+Azure;ETL+%7C+Data+Pipelines+%7C+Lakehouse;Exploring+AI%2FML+for+Data+Automation
+
 
 https://komarev.com/ghpvc/?username=manihsaw1852&label=Profile%20Views&color=0e75b6&style=for-the-badge
 
