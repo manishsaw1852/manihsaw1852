@@ -18,7 +18,7 @@ I design and build scalable, reliable, and cost‑efficient data systems for ana
 
 ⚙️ Databricks • PySpark • Azure Data Factory • Delta Lake
 
-🗄️ SQL • Python • Data Modeling • ETL/ELT
+🗄️ SQL • Python • Data Modeling • ETL
 
 ☁️ Azure • AWS (Exploring)
 
